@@ -1,3 +1,4 @@
 maven
 tomcat
-redis:alpine
+redis
+alpine
